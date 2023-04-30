@@ -19,7 +19,7 @@ document.getElementById("botonD").onclick=
       };      
 document.getElementById("boton").onclick=      
     function restaurar() {
-    document.getElementById("imagenLaptop").src = "imagenes/laptop-working-in-living-room-at-home.jpg";
+    document.getElementById("imagenLaptop").src="imagenes/laptop-working-in-living-room-at-home.jpg";
   } ;
 
 
